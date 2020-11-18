@@ -14,22 +14,22 @@
 ## Subject Structure
 In each subject README, there are links to:
 - A table of Lessons
-- :page_facing_up: Subject Summary Sheet
+- 📄 Subject Summary Sheet
     - a condense summary of every topic in the subject
     - available on GitHub and Google Docs or as a PDF and .TeX document
-- Subject Summary Video
+- 📽️ Subject Summary Video
     - the subject summary sheet explained in a visual way
     - available of YouTube or LBRY or as an MP4 file
 ## Lesson Structure
 Each Lesson contains
-- 📝 Course Notes
+- 📔 Course Notes
     - which are explanations of concepts with examples of common/hard past paper questions and techniques on how to answer them
 - 📽️ Course Video
     - course notes explained in a visual way
     - available of YouTube or LBRY or as an MP4 file
 - 📝 Practice Questions
     - includes past paper questions and extra questions
-- 📝 Answers to Practice Questions
+- 🖋️ Answers to Practice Questions
     - detailed answers for the practice questions
 ## File Structure
 - If you are cloning the repo, here is how the files for each subject are strcutured:
