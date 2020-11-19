@@ -1,4 +1,5 @@
 # MATHEMATICS (0580)
+![Mathematics Banner](/Mathematics(0580)/Images/Banner.png)
 > IGCSE Crash Course Mathetamtics Course Notes
 # Summary
 🚧 W.I.P.
@@ -21,4 +22,4 @@ This follow the [IGCSE 2020-2022 Syllabus](https://www.cambridgeinternational.or
 🚧 Work In Progress
 
 # Additional Resources
-🚧 W.I.P.
+- Rayner, D. (2005) _Extended Mathematics for IGCSE_. Oxford University Press.
