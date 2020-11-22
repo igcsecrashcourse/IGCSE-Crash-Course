@@ -2,7 +2,7 @@
 ![IGCSE Notes Banner](Banner.png)
 > 🤓 An open learning resource for IGCSE
 
-# Table of Contents
+# ◼️ Table of Contents ◼️
 - [Subjects](#Subjects)
 - [Structure](#Structure)
     - [Subject Structure](##SubjectStructure)
@@ -10,11 +10,11 @@
     - [File Structure](##FileStructure)
 - [Contributing](#Contributing)
 
-# Subjects
-## [Mathematics (0580)](/Mathematics(0580)/)
-## [Additional Mathematics (0606)](/Additional-Mathematics(0606)/)
+# 📚 Subjects 📚
+### - [Mathematics (0580)](/Mathematics(0580)/)
+### - [Additional Mathematics (0606)](/Additional-Mathematics(0606)/)
 
-# Structure
+# 🔶 Structure 🔶
 ## Subject Structure
 In each subject README, there are links to:
 - A table of Lessons
