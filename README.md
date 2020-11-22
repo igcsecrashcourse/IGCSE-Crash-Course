@@ -9,8 +9,11 @@
     - [Lesson Structure](##LessonStructure)
     - [File Structure](##FileStructure)
 - [Contributing](#Contributing)
+
 # Subjects
-- [Mathematics(0580)](/Mathematics(0580)/README.md)
+## [Mathematics (0580)](/Mathematics(0580)/)
+## [Additional Mathematics (0606)](/Additional-Mathematics(0606)/)
+
 # Structure
 ## Subject Structure
 In each subject README, there are links to:
@@ -50,5 +53,6 @@ Each Lesson contains
         - PDF_Course_Notes .pdf
     - 📁 2-Topic_2
     - ...
+
 # Contributing
 🚧 W.I.P.
