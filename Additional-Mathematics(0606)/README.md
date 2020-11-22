@@ -1,6 +1,6 @@
-# ADDITIONAL MATHEMATICS (0580)
+# ADDITIONAL MATHEMATICS (0606)
 ![Additional Mathematics Banner](/Additional-Mathematics(0606)/Images/Banner.png)
-> IGCSE Crash Course Additional Mathetamtics Course Notes
+> IGCSE Additional Mathetamtics Notes
 # Summary
 🚧 W.I.P.
 # Topics
