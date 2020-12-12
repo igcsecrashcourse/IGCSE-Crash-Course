@@ -25,7 +25,7 @@
 ## 📖 Course Notes 📖
 <a name="1.1TypesofNumbers"></a>
 ### 1.1 Types of Numbers
-* Numbers can be classified in various ways. Here are some of the more common types of numbers that you will have to be familiar with
+* <p>Numbers can be classified in various ways. Here are some of the more common types of numbers that you will have to be familiar with</p>
 * Natural Numbers
     * represented by a double-struck capital N (ℕ)
     * are positive, whole numbers or 'counting numbers'.
