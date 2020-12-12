@@ -46,11 +46,9 @@ Each Lesson contains
             - 2-image_description .png
             - ...
         - README .md (Course Notes)
-        - Practice_Questions .md
+        - Practice_Questions .md 
         - Solutions_to_Practice_Questions .md
-        - Course_Video .mp4
-        - LaTeX_Course_Notes .tex
-        - PDF_Course_Notes .pdf
+        - 🚧 Course_Video .mp4
     - 📁 2-Topic_2
     - ...
 
