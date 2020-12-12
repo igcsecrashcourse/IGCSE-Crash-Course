@@ -3,7 +3,7 @@
 > 🤓 An open learning resource for IGCSE
 
 # ◼️ Table of Contents ◼️
-- [Subjects](# 📚 Subjects 📚)
+- [Subjects](#📚Subjects📚)
 - [Structure](#Structure)
     - [Subject Structure](##SubjectStructure)
     - [Lesson Structure](##LessonStructure)
