@@ -1,6 +1,10 @@
-# Course Notes
+<h1 align="center">1 Number</h1>
+
+## Course Notes
+
+
+
+## Practice Questions
 🚧 W.I.P.
-# Practice Questions
-🚧 W.I.P.
-# Flashcards
+## Flashcards
 🚧 W.I.P.
