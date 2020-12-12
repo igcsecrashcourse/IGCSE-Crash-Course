@@ -38,7 +38,7 @@
     * they can be positive, negative or zero
 * Rational Numbers
     * represented by a double-struck capital Q ()
-    * are numbers which can be written as a fraction in form <img src="/Mathematics(0580)/1-Number/Images/1_1frac{p}{q}.png" height=20 alt="\frac{p}{q}"></img>, where <img src="/Mathematics(0580)/1-Number/Images/1_1p.png" height=15 alt="p"></img> and <img src="/Mathematics(0580)/1-Number/Images/1_1q.png" height=10 alt="q"></img> are integers and $q\neq0$
+    * are numbers which can be written as a fraction in form <img src="/Mathematics(0580)/1-Number/Images/frac{p}{q}.png" height=25 alt="\frac{p}{q}"></img>, where <img src="/Mathematics(0580)/1-Number/Images/p.png" height=10 alt="p"></img> and <img src="/Mathematics(0580)/1-Number/Images/q.png" height=10 alt="q"></img> are integers and $q\neq0$
 * Irrational Numbers
     * cannot be written as a fraction
     * eg. π
