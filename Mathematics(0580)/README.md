@@ -1,9 +1,13 @@
-<h1 align="center">MATHEMATICS (0580)</h1>
+<h1 align="center"> MATHEMATICS (0580) </h1>
+
 > IGCSE Crash Course Mathetamtics Course Notes
-# Summary
+
+## Summary
 🚧 W.I.P.
-# Topics
+
+## Topics
 This follows the [IGCSE 2020-2022 Syllabus](https://www.cambridgeinternational.org/Images/414416-2020-2022-syllabus.pdf)
+
 | # | Course Notes | Practice Questions | Anki | Quizlet |
 |:--:|:--|:--:|:--:|:--:|
 | 1 | 🚧 [1-Number](/Mathematics(0580)/1-Number/README.md) | 🚧 W.I.P. | 🚧 W.I.P. | 🚧 W.I.P. |
