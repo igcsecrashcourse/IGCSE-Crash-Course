@@ -1,5 +1,10 @@
-<h1 align="center">1 Number</h1>
+<style>
+  p {
+  padding: 35px;
+}
+</style>
 
+<h1 align="center">1 Number</h1>
 
 ## Contents
 - [📖 Course Notes 📖](#CourseNotes)
@@ -26,16 +31,8 @@
 ## 📖 Course Notes 📖
 <a name="1.1TypesofNumbers"></a>
 ### 1.1 Types of Numbers
-<ul>
-  <li><p>Numbers can be classified in various ways. Here are some of the more common types of numbers that you will have to be familiar with</p></li>
-  <li><p>Natural Numbers</p></li>
-  <ul>
-    <li><p>represented by a double-struck capital N (ℕ)</p></li>
-  </ul>
-</ul>
-
-* <p>Numbers can be classified in various ways. Here are some of the more common types of numbers that you will have to be familiar with</p>
-* <p>Natural Numbers</p>
+* Numbers can be classified in various ways. Here are some of the more common types of numbers that you will have to be familiar with
+* Natural Numbers
     * are positive, whole numbers or 'counting numbers'.
     * Some definitions of natural numbers include the number 0
         * because people argue that you can't count 0 of somethng
