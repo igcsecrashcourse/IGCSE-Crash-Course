@@ -1,9 +1,3 @@
-<style>
-  p {
-  padding: 35px;
-}
-</style>
-
 <h1 align="center">1 Number</h1>
 
 ## Contents
