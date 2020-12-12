@@ -1,21 +1,24 @@
-# IGCSE-Notes
-![IGCSE Notes Banner](Banner.png)
+<h1 align="center">IGCSE-Notes</h1>
+
 > 🤓 An open learning resource for IGCSE
 
-# ◼️ Table of Contents ◼️
-- [Subjects](#📚Subjects📚)
-- [Structure](#Structure)
-    - [Subject Structure](##SubjectStructure)
-    - [Lesson Structure](##LessonStructure)
-    - [File Structure](##FileStructure)
+## ◼️ Table of Contents ◼️ ##
+- [📚Subjects📚](#Subjects)
+- [🔶Structure🔶](#Structure)
+    - [Subject Structure](#SubjectStructure)
+    - [Lesson Structure](#LessonStructure)
+    - [File Structure](#FileStructure)
 - [Contributing](#Contributing)
 
-# 📚 Subjects 📚
-### - [Mathematics (0580)](/Mathematics(0580)/)
-### - [Additional Mathematics (0606)](/Additional-Mathematics(0606)/)
+<a name="Subjects"></a>
+## 📚 Subjects 📚
+ - 📙 [**Mathematics (0580)**](/Mathematics(0580)/)
+ - 📘 [**Additional Mathematics (0606)**](/Additional-Mathematics(0606)/)
 
-# 🔶 Structure 🔶
-## Subject Structure
+<a name="Structure"></a>
+## 🔶 Structure 🔶
+<a name="SubjectStructure"></a>
+### Subject Structure
 In each subject README, there are links to:
 - A table of Lessons
 - 📄 Subject Summary Sheet
@@ -24,7 +27,8 @@ In each subject README, there are links to:
 - 📽️ Subject Summary Video
     - the subject summary sheet explained in a visual way
     - available of YouTube or LBRY or as an MP4 file
-## Lesson Structure
+<a name="LessonStructure"></a>
+### Lesson Structure
 Each Lesson contains
 - 📔 Course Notes
     - which are explanations of concepts with examples of common/hard past paper questions and techniques on how to answer them
@@ -35,7 +39,8 @@ Each Lesson contains
     - includes past paper questions and extra questions
 - 🖋️ Answers to Practice Questions
     - detailed answers for the practice questions
-## File Structure
+<a name="FileStructure"></a>
+### File Structure
 - If you are cloning the repo, here is how the files for each subject are strcutured:
 - 📁 [Subject Code] Subject
     - README
@@ -51,6 +56,6 @@ Each Lesson contains
         - 🚧 Course_Video .mp4
     - 📁 2-Topic_2
     - ...
-
+<a name="Contributing"></a>
 # Contributing
 🚧 W.I.P.
