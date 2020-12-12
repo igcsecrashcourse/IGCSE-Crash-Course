@@ -27,6 +27,7 @@
 ### 1.1 Types of Numbers
 * Numbers can be classified in various ways. Here are some of the more common types of numbers that you will have to be familiar with
 * Natural Numbers
+    * represented by a double-struck capital N (ℕ)
     * are positive, whole numbers or 'counting numbers'.
     * Some definitions of natural numbers include the number 0
         * because people argue that you can't count 0 of somethng
@@ -37,8 +38,7 @@
     * they can be positive, negative or zero
 * Rational Numbers
     * represented by a double-struck capital Q ()
-    * 
-    * are numbers which cna be written as a fraction in form $\frac{p}{q}$, where p and $q$ are integers and $q\neq0$
+    * are numbers which can be written as a fraction in form <img src="/Mathematics(0580)/1-Number/Images/1.1\frac{p}{q}.png" height=20 alt="\frac{p}{q}"></img>, where <img src="/Mathematics(0580)/1-Number/Images/1.1p.png" height=15 alt="p"></img> and <img src="/Mathematics(0580)/1-Number/Images/1.1q.png" height=10 alt="q"></img> are integers and $q\neq0$
 * Irrational Numbers
     * cannot be written as a fraction
     * eg. π
