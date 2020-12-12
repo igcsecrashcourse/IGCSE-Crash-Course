@@ -37,7 +37,7 @@
     * are whole numbers
     * they can be positive, negative or zero
 * Rational Numbers
-    * represented by a double-struck capital Q ()
+    * represented by a double-struck capital Q (ℚ)
     * are numbers which can be written as a fraction in form <img src="/Mathematics(0580)/1-Number/Images/frac{p}{q}.png" height=25 alt="\frac{p}{q}"></img>, where <img src="/Mathematics(0580)/1-Number/Images/p.png" height=10 alt="p"></img> and <img src="/Mathematics(0580)/1-Number/Images/q.png" height=10 alt="q"></img> are integers and $q\neq0$
 * Irrational Numbers
     * cannot be written as a fraction
