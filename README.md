@@ -6,7 +6,7 @@
 - [📚 Subjects 📚](#Subjects)
 - [🔶 Structure 🔶](#Structure)
     - [Subject Structure](#SubjectStructure)
-    - [Lesson Structure](#LessonStructure)
+    - [Topic Structure](#TopicStructure)
     - [File Structure](#FileStructure)
 - [Contributing](#Contributing)
 
@@ -20,7 +20,7 @@
 <a name="SubjectStructure"></a>
 ### Subject Structure
 In each subject README, there are links to:
-- A Table of [Lessons](#LessonStructure)
+- A Table of [Topics](#TopicStructure)
 - 📄 Subject Summary Sheet
     - a condense summary of every topic in the subject
    <!---- - available on GitHub and Google Docs or as a PDF and .TeX document--->
@@ -28,8 +28,8 @@ In each subject README, there are links to:
     - the subject summary sheet explained in a visual way
     - available of YouTube or LBRY or as an MP4 file--->
 <a name="LessonStructure"></a>
-### Lesson Structure
-Each Lesson contains
+### Topic Structure
+Each Topic contains
 - 📔 Course Notes
     - which are explanations of concepts with examples of common/hard past paper questions and techniques on how to answer them
 <!----- 📽️ Course Video
