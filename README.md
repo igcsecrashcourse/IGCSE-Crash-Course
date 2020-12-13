@@ -1,6 +1,6 @@
 <h1 align="center">IGCSE-Notes</h1>
 
-> 🤓 An open learning resource for IGCSE
+> An accumulation of my notes for IGCSE
 
 ## ◼️ Table of Contents ◼️ ##
 - [📚 Subjects 📚](#Subjects)
