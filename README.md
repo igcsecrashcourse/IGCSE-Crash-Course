@@ -27,7 +27,7 @@ In each subject README, there are links to:
 <!--- - 📽️ Subject Summary Video
     - the subject summary sheet explained in a visual way
     - available of YouTube or LBRY or as an MP4 file--->
-<a name="LessonStructure"></a>
+<a name="TopicStructure"></a>
 ### Topic Structure
 Each Topic contains
 - 📔 Course Notes
